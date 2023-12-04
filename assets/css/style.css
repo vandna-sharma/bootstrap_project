@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main-background{
+    height:100vh;
+    background-image: linear-gradient(90deg,rgba(255,65,76,.96),#ff8760);
+}
+
+.fa{
+    margin: 0px 10px;
+}
+.main-pic{
+    height: 550px;
+}
+
+
