@@ -15,10 +15,15 @@
 .main-pic{
     height: 550px;
 }
+.info:hover{
+    color: blue;
+    cursor: pointer;
+}
 .fa:hover{
     color: blue;
     cursor: pointer;
-    transform: translateY(-3px);
+    transform: translateY(-4px);
+    transition: 500ms;
 }
 
 
