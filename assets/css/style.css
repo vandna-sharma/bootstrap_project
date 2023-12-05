@@ -15,5 +15,10 @@
 .main-pic{
     height: 550px;
 }
+.fa:hover{
+    color: blue;
+    cursor: pointer;
+    transform: translateY(-3px);
+}
 
 
