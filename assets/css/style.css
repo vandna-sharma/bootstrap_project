@@ -40,5 +40,10 @@ background-image: linear-gradient(90deg,rgba(255,65,76,.96),#ff8760);
 .btn-danger:hover{
     background-color: rgb(82, 82, 238);
 }
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 13px;
+}
 
 
