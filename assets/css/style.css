@@ -25,5 +25,13 @@
     transform: translateY(-4px);
     transition: 500ms;
 }
+.about_content:hover {
+    
+background-image: linear-gradient(90deg,rgba(255,65,76,.96),#ff8760);
+}
+.about_content img:hover{
+    transform: scale(1.1);
+    transition: 500ms;
+}
 
 
