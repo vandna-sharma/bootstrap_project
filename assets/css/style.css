@@ -9,7 +9,7 @@
     background-image: linear-gradient(90deg,rgba(255,65,76,.96),#ff8760);
 }
 
-.fa{
+.icons{
     margin: 0px 10px;
 }
 .main-pic{
@@ -19,19 +19,26 @@
     color: blue;
     cursor: pointer;
 }
-.fa:hover{
+.icons:hover{
     color: blue;
     cursor: pointer;
     transform: translateY(-4px);
     transition: 500ms;
 }
 .about_content:hover {
-    
+    cursor: pointer;
 background-image: linear-gradient(90deg,rgba(255,65,76,.96),#ff8760);
 }
 .about_content img:hover{
     transform: scale(1.1);
     transition: 500ms;
+    cursor: pointer;
+}
+.btn-danger{
+    font-size: 22px;
+}
+.btn-danger:hover{
+    background-color: rgb(82, 82, 238);
 }
 
 
